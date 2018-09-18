@@ -1,0 +1,1 @@
+insert into Reader(username, password, fullname) values('sungwon', 'password', 'Sungwon Yun')
